@@ -3,13 +3,14 @@ let BIG;
 let monsterMenu = 0;
 let screenShuffle;
 let dndFont;
-
+let monsterImg;
 
 function preload(){
  dndFont= loadFont("DUNGRG__.TTF");
+ monsterImg= loadImage("images/dragon_token.png")
 }
 function setup() {
-  createCanvas(3000, 750);
+  createCanvas(4500, 750);
   monster = loadJSON("dragons copy 2.json");
   //console.log(monster.monsters[0])
   textFont(dndFont);
@@ -56,7 +57,9 @@ function HPScreen(){
       let d = dist(mouseX,mouseY,x,y);
 
       // text(monster.results[i].name, 10, 10 + i * 20)
-    ellipse(x,y,r,r);
+      imageMode(CENTER);
+      image(monsterImg,x,y,r,r)
+    // ellipse(x,y,r,r);
     textAlign(CENTER);
     textSize(50);
     // text(hub[i].name,x, y+300)
