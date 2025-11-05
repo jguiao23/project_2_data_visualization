@@ -1,6 +1,112 @@
 {
   "results": [
     {
+      "name": "Badger",
+      "stats": {
+        "size": "Tiny",
+        "type": "beast",
+        "alignment": "unaligned",
+        "armor_class": [
+          {
+            "type": "dex",
+            "value": 10
+          }
+        ],
+        "hit_points": 3,
+        "hit_dice": "1d4",
+        "hit_points_roll": "1d4+1",
+        "speed": {
+          "walk": "20 ft.",
+          "burrow": "5 ft."
+        },
+        "strength": 4,
+        "dexterity": 11,
+        "constitution": 12,
+        "intelligence": 2,
+        "wisdom": 12,
+        "charisma": 5
+      }
+    },
+    {
+      "name": "Cockatrice",
+      "stats": {
+        "size": "Small",
+        "type": "monstrosity",
+        "alignment": "unaligned",
+        "armor_class": [
+          {
+            "type": "dex",
+            "value": 11
+          }
+        ],
+        "hit_points": 27,
+        "hit_dice": "6d6",
+        "hit_points_roll": "6d6+6",
+        "speed": {
+          "walk": "20 ft.",
+          "fly": "40 ft."
+        },
+        "strength": 6,
+        "dexterity": 12,
+        "constitution": 12,
+        "intelligence": 2,
+        "wisdom": 13,
+        "charisma": 5
+      }
+    },
+    {
+      "name": "Zombie",
+      "stats": {
+        "size": "Medium",
+        "type": "undead",
+        "alignment": "neutral evil",
+        "armor_class": [
+          {
+            "type": "dex",
+            "value": 8
+          }
+        ],
+        "hit_points": 22,
+        "hit_dice": "3d8",
+        "hit_points_roll": "3d8+9",
+        "speed": {
+          "walk": "20 ft."
+        },
+        "strength": 13,
+        "dexterity": 6,
+        "constitution": 16,
+        "intelligence": 3,
+        "wisdom": 6,
+        "charisma": 5
+      }
+    },
+    {
+      "name": "Elk",
+      "stats": {
+        "size": "Large",
+        "type": "beast",
+        "alignment": "unaligned",
+        "armor_class": [
+          {
+            "type": "dex",
+            "value": 10
+          }
+        ],
+        "hit_points": 13,
+        "hit_dice": "2d10",
+        "hit_points_roll": "2d10+2",
+        "speed": {
+          "walk": "50 ft."
+        },
+        "strength": 16,
+        "dexterity": 10,
+        "constitution": 12,
+        "intelligence": 2,
+        "wisdom": 10,
+        "charisma": 6
+      }
+    },
+    {
       "name": "Adult Black Dragon",
       "stats": {
         "size": "Huge",
@@ -57,35 +163,7 @@
         "charisma": 24
       }
     },
-    {
-      "name": "Ancient Red Dragon",
-      "stats": {
-        "size": "Gargantuan",
-        "type": "dragon",
-        "alignment": "chaotic evil",
-        "armor_class": [
-          {
-            "type": "natural",
-            "value": 22
-          }
-        ],
-        "hit_points": 546,
-        "hit_dice": "28d20",
-        "hit_points_roll": "28d20+252",
-        "speed": {
-          "walk": "40 ft.",
-          "climb": "40 ft.",
-          "fly": "80 ft."
-        },
-
-        "strength": 30,
-        "dexterity": 10,
-        "constitution": 29,
-        "intelligence": 18,
-        "wisdom": 15,
-        "charisma": 23
-      }
-    },
+    
 
     {
       "name": "Ancient White Dragon",
@@ -117,111 +195,35 @@
       }
     },
     {
-      "name": "Zombie",
+      "name": "Ancient Red Dragon",
       "stats": {
-        "size": "Medium",
-        "type": "undead",
-        "alignment": "neutral evil",
+        "size": "Gargantuan",
+        "type": "dragon",
+        "alignment": "chaotic evil",
         "armor_class": [
           {
-            "type": "dex",
-            "value": 8
+            "type": "natural",
+            "value": 22
           }
         ],
-        "hit_points": 22,
-        "hit_dice": "3d8",
-        "hit_points_roll": "3d8+9",
+        "hit_points": 546,
+        "hit_dice": "28d20",
+        "hit_points_roll": "28d20+252",
         "speed": {
-          "walk": "20 ft."
+          "walk": "40 ft.",
+          "climb": "40 ft.",
+          "fly": "80 ft."
         },
-        "strength": 13,
-        "dexterity": 6,
-        "constitution": 16,
-        "intelligence": 3,
-        "wisdom": 6,
-        "charisma": 5
-      }
-    },
 
-    {
-      "name": "Badger",
-      "stats": {
-        "size": "Tiny",
-        "type": "beast",
-        "alignment": "unaligned",
-        "armor_class": [
-          {
-            "type": "dex",
-            "value": 10
-          }
-        ],
-        "hit_points": 3,
-        "hit_dice": "1d4",
-        "hit_points_roll": "1d4+1",
-        "speed": {
-          "walk": "20 ft.",
-          "burrow": "5 ft."
-        },
-        "strength": 4,
-        "dexterity": 11,
-        "constitution": 12,
-        "intelligence": 2,
-        "wisdom": 12,
-        "charisma": 5
-      }
-    },
-    {
-      "name": "Cockatrice",
-      "stats": {
-        "size": "Small",
-        "type": "monstrosity",
-        "alignment": "unaligned",
-        "armor_class": [
-          {
-            "type": "dex",
-            "value": 11
-          }
-        ],
-        "hit_points": 27,
-        "hit_dice": "6d6",
-        "hit_points_roll": "6d6+6",
-        "speed": {
-          "walk": "20 ft.",
-          "fly": "40 ft."
-        },
-        "strength": 6,
-        "dexterity": 12,
-        "constitution": 12,
-        "intelligence": 2,
-        "wisdom": 13,
-        "charisma": 5
-      }
-    },
-    {
-      "name": "Elk",
-      "stats": {
-        "size": "Large",
-        "type": "beast",
-        "alignment": "unaligned",
-        "armor_class": [
-          {
-            "type": "dex",
-            "value": 10
-          }
-        ],
-        "hit_points": 13,
-        "hit_dice": "2d10",
-        "hit_points_roll": "2d10+2",
-        "speed": {
-          "walk": "50 ft."
-        },
-        "strength": 16,
+        "strength": 30,
         "dexterity": 10,
-        "constitution": 12,
-        "intelligence": 2,
-        "wisdom": 10,
-        "charisma": 6
+        "constitution": 29,
+        "intelligence": 18,
+        "wisdom": 15,
+        "charisma": 23
       }
     }
+  
+    
   ]
 }
