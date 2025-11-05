@@ -1,5 +1,4 @@
 {
-  "count": 43,
   "results": [
     {
       "name": "Adult Black Dragon",
@@ -21,144 +20,12 @@
           "fly": "80 ft.",
           "swim": "40 ft."
         },
-        "chart": [
-          {
-            "strength": 23,
-            "dexterity": 14,
-            "constitution": 21,
-            "intelligence": 14,
-            "wisdom": 13,
-            "charisma": 17
-          }
-        ]
-      }
-    },
-    {
-      "name": "Adult Blue Dragon",
-      "stats": {
-        "size": "Huge",
-        "type": "dragon",
-        "alignment": "lawful evil",
-        "armor_class": [
-          {
-            "type": "natural",
-            "value": 19
-          }
-        ],
-        "hit_points": 225,
-        "hit_dice": "18d12",
-        "hit_points_roll": "18d12+108",
-        "speed": {
-          "walk": "40 ft.",
-          "burrow": "30 ft.",
-          "fly": "80 ft."
-        },
-        "chart": [
-          {
-            "strength": 25,
-            "dexterity": 10,
-            "constitution": 23,
-            "intelligence": 16,
-            "wisdom": 15,
-            "charisma": 19
-          }
-        ]
-      }
-    },
-    {
-      "name": "Adult Brass Dragon",
-      "stats": {
-        "size": "Huge",
-        "type": "dragon",
-        "alignment": "lawful evil",
-        "armor_class": [
-          {
-            "type": "natural",
-            "value": 19
-          }
-        ],
-        "hit_points": 225,
-        "hit_dice": "18d12",
-        "hit_points_roll": "18d12+108",
-        "speed": {
-          "walk": "40 ft.",
-          "burrow": "30 ft.",
-          "fly": "80 ft."
-        },
-        "chart": [
-          {
-            "strength": 25,
-            "dexterity": 10,
-            "constitution": 23,
-            "intelligence": 16,
-            "wisdom": 15,
-            "charisma": 19
-          }
-        ]
-      }
-    },
-    {
-      "name": "Adult Bronze Dragon",
-      "stats": {
-        "size": "Huge",
-        "type": "dragon",
-        "alignment": "lawful good",
-        "armor_class": [
-          {
-            "type": "natural",
-            "value": 19
-          }
-        ],
-        "hit_points": 212,
-        "hit_dice": "17d12",
-        "hit_points_roll": "17d12+102",
-        "speed": {
-          "walk": "40 ft.",
-          "fly": "80 ft.",
-          "swim": "40 ft."
-        },
-        "chart": [
-          {
-            "strength": 25,
-            "dexterity": 10,
-            "constitution": 23,
-            "intelligence": 16,
-            "wisdom": 15,
-            "charisma": 19
-          }
-        ]
-      }
-    },
-    {
-      "name": "Adult Copper Dragon",
-      "stats": {
-        "size": "Huge",
-        "type": "dragon",
-        "alignment": "chaotic good",
-        "armor_class": [
-          {
-            "type": "natural",
-            "value": 18
-          }
-        ],
-        "hit_points": 184,
-        "hit_dice": "16d12",
-        "hit_points_roll": "16d12+80",
-        "speed": {
-          "walk": "40 ft.",
-          "climb": "40 ft.",
-          "fly": "80 ft."
-        },
-        "chart": [
-          {
-            "strength": 23,
-            "dexterity": 12,
-            "constitution": 21,
-            "intelligence": 18,
-            "wisdom": 15,
-            "charisma": 17
-          }
-        ]
+        "strength": 23,
+        "dexterity": 14,
+        "constitution": 21,
+        "intelligence": 14,
+        "wisdom": 13,
+        "charisma": 17
       }
     },
     {
@@ -181,48 +48,13 @@
           "fly": "80 ft.",
           "swim": "40 ft."
         },
-        "chart": [
-          {
-            "strength": 27,
-            "dexterity": 14,
-            "constitution": 25,
-            "intelligence": 16,
-            "wisdom": 15,
-            "charisma": 24
-          }
-        ]
-      }
-    },
-    {
-      "name": "Ancient Green Dragon",
-      "stats": {
-        "size": "Gargantuan",
-        "type": "dragon",
-        "alignment": "lawful evil",
-        "armor_class": [
-          {
-            "type": "natural",
-            "value": 21
-          }
-        ],
-        "hit_points": 385,
-        "hit_dice": "22d20",
-        "hit_points_roll": "22d20+154",
-        "speed": {
-          "walk": "40 ft.",
-          "fly": "80 ft.",
-          "swim": "40 ft."
-        },
-        "chart": [
-          {
-            "strength": 27,
-            "dexterity": 12,
-            "constitution": 25,
-            "intelligence": 20,
-            "wisdom": 17,
-            "charisma": 19
-          }
-        ]
+
+        "strength": 27,
+        "dexterity": 14,
+        "constitution": 25,
+        "intelligence": 16,
+        "wisdom": 15,
+        "charisma": 24
       }
     },
     {
@@ -245,49 +77,16 @@
           "climb": "40 ft.",
           "fly": "80 ft."
         },
-        "chart": [
-          {
-            "strength": 30,
-            "dexterity": 10,
-            "constitution": 29,
-            "intelligence": 18,
-            "wisdom": 15,
-            "charisma": 23
-          }
-        ]
+
+        "strength": 30,
+        "dexterity": 10,
+        "constitution": 29,
+        "intelligence": 18,
+        "wisdom": 15,
+        "charisma": 23
       }
     },
-    {
-      "name": "Ancient Silver Dragon",
-      "stats": {
-        "size": "Gargantuan",
-        "type": "dragon",
-        "alignment": "lawful good",
-        "armor_class": [
-          {
-            "type": "natural",
-            "value": 22
-          }
-        ],
-        "hit_points": 487,
-        "hit_dice": "25d20",
-        "hit_points_roll": "25d20+225",
-        "speed": {
-          "walk": "40 ft.",
-          "fly": "80 ft."
-        },
-        "chart": [
-          {
-            "strength": 30,
-            "dexterity": 10,
-            "constitution": 29,
-            "intelligence": 18,
-            "wisdom": 15,
-            "charisma": 23
-          }
-        ]
-      }
-    },
+
     {
       "name": "Ancient White Dragon",
       "stats": {
@@ -309,127 +108,120 @@
           "fly": "80 ft.",
           "swim": "40 ft."
         },
-        "chart": [
-          {
-            "strength": 26,
-            "dexterity": 10,
-            "constitution": 26,
-            "intelligence": 10,
-            "wisdom": 13,
-            "charisma": 14
-          }
-        ]
+        "strength": 26,
+        "dexterity": 10,
+        "constitution": 26,
+        "intelligence": 10,
+        "wisdom": 13,
+        "charisma": 14
       }
     },
     {
-      "index": "black-dragon-wyrmling",
-      "name": "Black Dragon Wyrmling",
-      "url": "/api/2014/monsters/black-dragon-wyrmling"
+      "name": "Zombie",
+      "stats": {
+        "size": "Medium",
+        "type": "undead",
+        "alignment": "neutral evil",
+        "armor_class": [
+          {
+            "type": "dex",
+            "value": 8
+          }
+        ],
+        "hit_points": 22,
+        "hit_dice": "3d8",
+        "hit_points_roll": "3d8+9",
+        "speed": {
+          "walk": "20 ft."
+        },
+        "strength": 13,
+        "dexterity": 6,
+        "constitution": 16,
+        "intelligence": 3,
+        "wisdom": 6,
+        "charisma": 5
+      }
+    },
+
+    {
+      "name": "Badger",
+      "stats": {
+        "size": "Tiny",
+        "type": "beast",
+        "alignment": "unaligned",
+        "armor_class": [
+          {
+            "type": "dex",
+            "value": 10
+          }
+        ],
+        "hit_points": 3,
+        "hit_dice": "1d4",
+        "hit_points_roll": "1d4+1",
+        "speed": {
+          "walk": "20 ft.",
+          "burrow": "5 ft."
+        },
+        "strength": 4,
+        "dexterity": 11,
+        "constitution": 12,
+        "intelligence": 2,
+        "wisdom": 12,
+        "charisma": 5
+      }
     },
     {
-      "index": "blue-dragon-wyrmling",
-      "name": "Blue Dragon Wyrmling",
-      "url": "/api/2014/monsters/blue-dragon-wyrmling"
+      "name": "Cockatrice",
+      "stats": {
+        "size": "Small",
+        "type": "monstrosity",
+        "alignment": "unaligned",
+        "armor_class": [
+          {
+            "type": "dex",
+            "value": 11
+          }
+        ],
+        "hit_points": 27,
+        "hit_dice": "6d6",
+        "hit_points_roll": "6d6+6",
+        "speed": {
+          "walk": "20 ft.",
+          "fly": "40 ft."
+        },
+        "strength": 6,
+        "dexterity": 12,
+        "constitution": 12,
+        "intelligence": 2,
+        "wisdom": 13,
+        "charisma": 5
+      }
     },
     {
-      "index": "brass-dragon-wyrmling",
-      "name": "Brass Dragon Wyrmling",
-      "url": "/api/2014/monsters/brass-dragon-wyrmling"
-    },
-    {
-      "index": "bronze-dragon-wyrmling",
-      "name": "Bronze Dragon Wyrmling",
-      "url": "/api/2014/monsters/bronze-dragon-wyrmling"
-    },
-    {
-      "index": "copper-dragon-wyrmling",
-      "name": "Copper Dragon Wyrmling",
-      "url": "/api/2014/monsters/copper-dragon-wyrmling"
-    },
-    {
-      "index": "dragon-turtle",
-      "name": "Dragon Turtle",
-      "url": "/api/2014/monsters/dragon-turtle"
-    },
-    {
-      "index": "gold-dragon-wyrmling",
-      "name": "Gold Dragon Wyrmling",
-      "url": "/api/2014/monsters/gold-dragon-wyrmling"
-    },
-    {
-      "index": "green-dragon-wyrmling",
-      "name": "Green Dragon Wyrmling",
-      "url": "/api/2014/monsters/green-dragon-wyrmling"
-    },
-    {
-      "index": "half-red-dragon-veteran",
-      "name": "Half-Red Dragon Veteran",
-      "url": "/api/2014/monsters/half-red-dragon-veteran"
-    },
-    {
-      "index": "red-dragon-wyrmling",
-      "name": "Red Dragon Wyrmling",
-      "url": "/api/2014/monsters/red-dragon-wyrmling"
-    },
-    {
-      "index": "silver-dragon-wyrmling",
-      "name": "Silver Dragon Wyrmling",
-      "url": "/api/2014/monsters/silver-dragon-wyrmling"
-    },
-    {
-      "index": "white-dragon-wyrmling",
-      "name": "White Dragon Wyrmling",
-      "url": "/api/2014/monsters/white-dragon-wyrmling"
-    },
-    {
-      "index": "young-black-dragon",
-      "name": "Young Black Dragon",
-      "url": "/api/2014/monsters/young-black-dragon"
-    },
-    {
-      "index": "young-blue-dragon",
-      "name": "Young Blue Dragon",
-      "url": "/api/2014/monsters/young-blue-dragon"
-    },
-    {
-      "index": "young-brass-dragon",
-      "name": "Young Brass Dragon",
-      "url": "/api/2014/monsters/young-brass-dragon"
-    },
-    {
-      "index": "young-bronze-dragon",
-      "name": "Young Bronze Dragon",
-      "url": "/api/2014/monsters/young-bronze-dragon"
-    },
-    {
-      "index": "young-copper-dragon",
-      "name": "Young Copper Dragon",
-      "url": "/api/2014/monsters/young-copper-dragon"
-    },
-    {
-      "index": "young-gold-dragon",
-      "name": "Young Gold Dragon",
-      "url": "/api/2014/monsters/young-gold-dragon"
-    },
-    {
-      "index": "young-green-dragon",
-      "name": "Young Green Dragon",
-      "url": "/api/2014/monsters/young-green-dragon"
-    },
-    {
-      "index": "young-red-dragon",
-      "name": "Young Red Dragon",
-      "url": "/api/2014/monsters/young-red-dragon"
-    },
-    {
-      "index": "young-silver-dragon",
-      "name": "Young Silver Dragon",
-      "url": "/api/2014/monsters/young-silver-dragon"
-    },
-    {
-      "index": "young-white-dragon",
-      "name": "Young White Dragon",
-      "url": "/api/2014/monsters/young-white-dragon"
+      "name": "Elk",
+      "stats": {
+        "size": "Large",
+        "type": "beast",
+        "alignment": "unaligned",
+        "armor_class": [
+          {
+            "type": "dex",
+            "value": 10
+          }
+        ],
+        "hit_points": 13,
+        "hit_dice": "2d10",
+        "hit_points_roll": "2d10+2",
+        "speed": {
+          "walk": "50 ft."
+        },
+        "strength": 16,
+        "dexterity": 10,
+        "constitution": 12,
+        "intelligence": 2,
+        "wisdom": 10,
+        "charisma": 6
+      }
     }
   ]
 }
