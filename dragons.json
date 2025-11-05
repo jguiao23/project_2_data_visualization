@@ -1,0 +1,72 @@
+{
+  "monsters":[
+     {
+        "Adult Black Dragon":{
+           "size":"Huge",
+           "type":"dragon",
+           "alignment":"chaotic evil",
+           "strength":23,
+           "dexterity":14,
+           "constitution":21,
+           "intelligence":14,
+           "wisdom":13,
+           "charisma":17
+        },
+        "Adult Blue Dragon":{
+           "size":"Huge",
+           "type":"dragon",
+           "alignment":"lawful evil",
+           "strength":25,
+           "dexterity":10,
+           "constitution":23,
+           "intelligence":16,
+           "wisdom":15,
+           "charisma":19
+        },
+        "Adult Brass Dragon":{
+           "size":"Huge",
+           "type":"dragon",
+           "alignment":"lawful evil",
+           "strength":25,
+           "dexterity":10,
+           "constitution":23,
+           "intelligence":16,
+           "wisdom":15,
+           "charisma":19
+        },
+        "Adult Bronze Dragon":{
+           "size":"Huge",
+           "type":"dragon",
+           "alignment":"lawful good",
+           "strength":25,
+           "dexterity":10,
+           "constitution":23,
+           "intelligence":16,
+           "wisdom":15,
+           "charisma":19
+        },
+        "Adult Copper Dragon":{
+           "size":"Huge",
+           "type":"dragon",
+           "alignment":"chaotic good",
+           "strength":23,
+           "dexterity":12,
+           "constitution":21,
+           "intelligence":18,
+           "wisdom":15,
+           "charisma":17
+        },
+        "Adult Gold Dragon":{
+           "size":"Huge",
+           "type":"dragon",
+           "alignment":"lawful good",
+           "strength":27,
+           "dexterity":14,
+           "constitution":25,
+           "intelligence":16,
+           "wisdom":15,
+           "charisma":24
+        }
+     }
+  ]
+}

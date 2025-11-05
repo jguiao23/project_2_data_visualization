@@ -1,0 +1,215 @@
+{
+  "count": 42,
+  "results": [
+    {
+      "index": "adult-black-dragon",
+      "name": "Adult Black Dragon",
+      "url": "/api/2014/monsters/adult-black-dragon"
+    },
+    {
+      "index": "adult-blue-dragon",
+      "name": "Adult Blue Dragon",
+      "url": "/api/2014/monsters/adult-blue-dragon"
+    },
+    {
+      "index": "adult-brass-dragon",
+      "name": "Adult Brass Dragon",
+      "url": "/api/2014/monsters/adult-brass-dragon"
+    },
+    {
+      "index": "adult-bronze-dragon",
+      "name": "Adult Bronze Dragon",
+      "url": "/api/2014/monsters/adult-bronze-dragon"
+    },
+    {
+      "index": "adult-copper-dragon",
+      "name": "Adult Copper Dragon",
+      "url": "/api/2014/monsters/adult-copper-dragon"
+    },
+    {
+      "index": "adult-gold-dragon",
+      "name": "Adult Gold Dragon",
+      "url": "/api/2014/monsters/adult-gold-dragon"
+    },
+    {
+      "index": "adult-green-dragon",
+      "name": "Adult Green Dragon",
+      "url": "/api/2014/monsters/adult-green-dragon"
+    },
+    {
+      "index": "adult-red-dragon",
+      "name": "Adult Red Dragon",
+      "url": "/api/2014/monsters/adult-red-dragon"
+    },
+    {
+      "index": "adult-silver-dragon",
+      "name": "Adult Silver Dragon",
+      "url": "/api/2014/monsters/adult-silver-dragon"
+    },
+    {
+      "index": "adult-white-dragon",
+      "name": "Adult White Dragon",
+      "url": "/api/2014/monsters/adult-white-dragon"
+    },
+    {
+      "index": "ancient-black-dragon",
+      "name": "Ancient Black Dragon",
+      "url": "/api/2014/monsters/ancient-black-dragon"
+    },
+    {
+      "index": "ancient-blue-dragon",
+      "name": "Ancient Blue Dragon",
+      "url": "/api/2014/monsters/ancient-blue-dragon"
+    },
+    {
+      "index": "ancient-brass-dragon",
+      "name": "Ancient Brass Dragon",
+      "url": "/api/2014/monsters/ancient-brass-dragon"
+    },
+    {
+      "index": "ancient-bronze-dragon",
+      "name": "Ancient Bronze Dragon",
+      "url": "/api/2014/monsters/ancient-bronze-dragon"
+    },
+    {
+      "index": "ancient-copper-dragon",
+      "name": "Ancient Copper Dragon",
+      "url": "/api/2014/monsters/ancient-copper-dragon"
+    },
+    {
+      "index": "ancient-gold-dragon",
+      "name": "Ancient Gold Dragon",
+      "url": "/api/2014/monsters/ancient-gold-dragon"
+    },
+    {
+      "index": "ancient-green-dragon",
+      "name": "Ancient Green Dragon",
+      "url": "/api/2014/monsters/ancient-green-dragon"
+    },
+    {
+      "index": "ancient-red-dragon",
+      "name": "Ancient Red Dragon",
+      "url": "/api/2014/monsters/ancient-red-dragon"
+    },
+    {
+      "index": "ancient-silver-dragon",
+      "name": "Ancient Silver Dragon",
+      "url": "/api/2014/monsters/ancient-silver-dragon"
+    },
+    {
+      "index": "ancient-white-dragon",
+      "name": "Ancient White Dragon",
+      "url": "/api/2014/monsters/ancient-white-dragon"
+    },
+    {
+      "index": "black-dragon-wyrmling",
+      "name": "Black Dragon Wyrmling",
+      "url": "/api/2014/monsters/black-dragon-wyrmling"
+    },
+    {
+      "index": "blue-dragon-wyrmling",
+      "name": "Blue Dragon Wyrmling",
+      "url": "/api/2014/monsters/blue-dragon-wyrmling"
+    },
+    {
+      "index": "brass-dragon-wyrmling",
+      "name": "Brass Dragon Wyrmling",
+      "url": "/api/2014/monsters/brass-dragon-wyrmling"
+    },
+    {
+      "index": "bronze-dragon-wyrmling",
+      "name": "Bronze Dragon Wyrmling",
+      "url": "/api/2014/monsters/bronze-dragon-wyrmling"
+    },
+    {
+      "index": "copper-dragon-wyrmling",
+      "name": "Copper Dragon Wyrmling",
+      "url": "/api/2014/monsters/copper-dragon-wyrmling"
+    },
+    {
+      "index": "dragon-turtle",
+      "name": "Dragon Turtle",
+      "url": "/api/2014/monsters/dragon-turtle"
+    },
+    {
+      "index": "gold-dragon-wyrmling",
+      "name": "Gold Dragon Wyrmling",
+      "url": "/api/2014/monsters/gold-dragon-wyrmling"
+    },
+    {
+      "index": "green-dragon-wyrmling",
+      "name": "Green Dragon Wyrmling",
+      "url": "/api/2014/monsters/green-dragon-wyrmling"
+    },
+    {
+      "index": "half-red-dragon-veteran",
+      "name": "Half-Red Dragon Veteran",
+      "url": "/api/2014/monsters/half-red-dragon-veteran"
+    },
+    {
+      "index": "red-dragon-wyrmling",
+      "name": "Red Dragon Wyrmling",
+      "url": "/api/2014/monsters/red-dragon-wyrmling"
+    },
+    {
+      "index": "silver-dragon-wyrmling",
+      "name": "Silver Dragon Wyrmling",
+      "url": "/api/2014/monsters/silver-dragon-wyrmling"
+    },
+    {
+      "index": "white-dragon-wyrmling",
+      "name": "White Dragon Wyrmling",
+      "url": "/api/2014/monsters/white-dragon-wyrmling"
+    },
+    {
+      "index": "young-black-dragon",
+      "name": "Young Black Dragon",
+      "url": "/api/2014/monsters/young-black-dragon"
+    },
+    {
+      "index": "young-blue-dragon",
+      "name": "Young Blue Dragon",
+      "url": "/api/2014/monsters/young-blue-dragon"
+    },
+    {
+      "index": "young-brass-dragon",
+      "name": "Young Brass Dragon",
+      "url": "/api/2014/monsters/young-brass-dragon"
+    },
+    {
+      "index": "young-bronze-dragon",
+      "name": "Young Bronze Dragon",
+      "url": "/api/2014/monsters/young-bronze-dragon"
+    },
+    {
+      "index": "young-copper-dragon",
+      "name": "Young Copper Dragon",
+      "url": "/api/2014/monsters/young-copper-dragon"
+    },
+    {
+      "index": "young-gold-dragon",
+      "name": "Young Gold Dragon",
+      "url": "/api/2014/monsters/young-gold-dragon"
+    },
+    {
+      "index": "young-green-dragon",
+      "name": "Young Green Dragon",
+      "url": "/api/2014/monsters/young-green-dragon"
+    },
+    {
+      "index": "young-red-dragon",
+      "name": "Young Red Dragon",
+      "url": "/api/2014/monsters/young-red-dragon"
+    },
+    {
+      "index": "young-silver-dragon",
+      "name": "Young Silver Dragon",
+      "url": "/api/2014/monsters/young-silver-dragon"
+    },
+    {
+      "index": "young-white-dragon",
+      "name": "Young White Dragon",
+      "url": "/api/2014/monsters/young-white-dragon"
+    }
+  ]
+}
